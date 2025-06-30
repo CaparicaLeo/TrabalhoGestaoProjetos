@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>To-Do List</title>
+		<link rel="stylesheet" href="css/style.css" />
+	</head>
+	<body>
+		<div class="container">
+			<h1>Minha To-Do List</h1>
+			<form action="submit">
+				<input
+					type="text"
+					id="todo-input"
+					placeholder="Digite uma tarefa..."
+				/>
+                <input type="text" id="descricao-todo" placeholder="Digite aqui a descricao desta tarefa">
+                <button id="todo-btn">Enviar</button>
+			</form>
+			<ul id="todo-list"></ul>
+		</div>
+		<script src="js/main.js"></script>
+	</body>
+</html>
