@@ -32,5 +32,5 @@ Uma simples aplicação de lista de tarefas (To-Do List) desenvolvida com HTML, 
 
 ## 🧑‍💻 Autor
 
-Feito por [Seu Nome].  
+Feito por Leonardo Caparica, Hugo Andrade e João Francisco Gralaki.  
 Sinta-se à vontade para contribuir ou dar sugestões!
