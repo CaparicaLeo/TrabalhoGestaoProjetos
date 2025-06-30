@@ -19,19 +19,6 @@ Uma simples aplicação de lista de tarefas (To-Do List) desenvolvida com HTML, 
 - CSS3 (Flexbox e responsividade)
 - JavaScript (DOM e localStorage)
 
-## 📁 Estrutura de Pastas
-
-todo-list/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── main.js
-├── assets/
-│ └── exemplo.png (opcional)
-└── README.md
-
-
 ## ▶️ Como Executar
 
 1. Clone o repositório
