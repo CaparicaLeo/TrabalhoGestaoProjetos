@@ -9,10 +9,6 @@ Uma simples aplicação de lista de tarefas (To-Do List) desenvolvida com HTML, 
 - Remover tarefas
 - Armazenar a lista no navegador com `localStorage`
 
-## 📸 Prévia
-
-![exemplo da interface](assets/exemplo.png) <!-- Substitua se quiser usar uma imagem real -->
-
 ## 🧱 Tecnologias
 
 - HTML5
